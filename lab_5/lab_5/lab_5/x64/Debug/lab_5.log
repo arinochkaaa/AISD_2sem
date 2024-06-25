@@ -1,0 +1,3 @@
+﻿  lab_5.cpp
+D:\laby\2_sem\асд\lab_5\lab_5\lab_5\lab_5.cpp(33,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_5.vcxproj -> D:\laby\2_sem\асд\lab_5\lab_5\x64\Debug\lab_5.exe

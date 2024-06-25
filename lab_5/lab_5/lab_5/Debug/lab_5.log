@@ -1,0 +1,5 @@
+﻿  lab_5.cpp
+D:\laby\2_sem\асд\lab_5\lab_5\lab_5\lab_5.cpp(7,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\laby\2_sem\асд\lab_5\lab_5\lab_5\lab_5.cpp(45,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\laby\2_sem\асд\lab_5\lab_5\lab_5\lab_5.cpp(55,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  lab_5.vcxproj -> D:\laby\2_sem\асд\lab_5\lab_5\Debug\lab_5.exe
